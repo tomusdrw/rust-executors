@@ -4,7 +4,7 @@
 Tasks can be executed in the same thread, multiple threads (pool) or you can
 control when and in which thread the tasks are consumed.
 
-[Docs](https://tomusdrw.github.io/rust-executors)
+[Docs](https://tomusdrw.github.io/rust-executors/executors)
 
 ## Examples
 ```rust
